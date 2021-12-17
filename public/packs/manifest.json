@@ -1,0 +1,24 @@
+{
+  "application.js": "/packs/js/application-37fe1371d7b70eb2a5e5.js",
+  "application.js.map": "/packs/js/application-37fe1371d7b70eb2a5e5.js.map",
+  "autocomplete.js": "/packs/js/autocomplete-7dee7b00749c0e0333ba.js",
+  "autocomplete.js.map": "/packs/js/autocomplete-7dee7b00749c0e0333ba.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-37fe1371d7b70eb2a5e5.js"
+      ],
+      "js.map": [
+        "/packs/js/application-37fe1371d7b70eb2a5e5.js.map"
+      ]
+    },
+    "autocomplete": {
+      "js": [
+        "/packs/js/autocomplete-7dee7b00749c0e0333ba.js"
+      ],
+      "js.map": [
+        "/packs/js/autocomplete-7dee7b00749c0e0333ba.js.map"
+      ]
+    }
+  }
+}
