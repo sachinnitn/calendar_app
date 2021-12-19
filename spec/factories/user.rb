@@ -5,5 +5,6 @@ FactoryBot.define do
   email         { Faker::Internet.email("#{first_name || Faker::Cat.name} #{last_name}", '', '.', '_') }
   password      { 'Abcd1234' }
   expires_at    2.days.from_now
+  sign_in_count 2
   end
 end
